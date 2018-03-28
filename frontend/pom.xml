@@ -28,7 +28,7 @@
     <resources>
       <resource>
         <directory>dist</directory>
-        <targetPath>static</targetPath>
+        <!--<targetPath>static</targetPath>-->
       </resource>
     </resources>
 		<plugins>
